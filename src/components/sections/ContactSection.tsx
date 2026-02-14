@@ -116,7 +116,7 @@ export const ContactSection = () => {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Standort Barbershop by Cengiz"
+                  title="Standort The Gentleman's Cut"
                 />
               </div>
 
